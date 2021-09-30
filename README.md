@@ -1,5 +1,8 @@
 # UltraOOXX_AI_algorithm_design
 
+## 此期末專題是由助教原始程式修改而成
+https://github.com/LFsWang/I2P2020-Final-Project
+
 ## Demo
 https://youtu.be/URhQ9oq0kvU \
 [![Demo](cover_picture.jpg)](https://youtu.be/URhQ9oq0kvU)
